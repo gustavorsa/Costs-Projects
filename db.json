@@ -1,0 +1,98 @@
+{
+  "projects": [
+    {
+      "name": "Teste111",
+      "budget": "12322",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 2
+    },
+    {
+      "name": "Projeto de Design",
+      "budget": "153601",
+      "category": {
+        "id": "3",
+        "name": "Design"
+      },
+      "cost": 600,
+      "services": [
+        {
+          "name": "Teste de serviço",
+          "cost": "100",
+          "description": "teste",
+          "id": "7b912900-31ef-49c9-bfd4-badde23f7103"
+        },
+        {
+          "name": "Teste de serviço",
+          "cost": "100",
+          "description": "teste",
+          "id": "7b912900-31ef-49c9-bfd4-badde23f7103"
+        },
+        {
+          "name": "Projeto de Design",
+          "cost": "100",
+          "description": "teste",
+          "id": "4099c7b1-ca11-41fe-8b8e-9fd323baa8d3"
+        },
+        {
+          "name": "Projeto de Design1",
+          "cost": "300",
+          "description": "Então é necessário fazer uma devolução normal desta compra e uma nota manual avulsa como complemento, sendo necessário informar o NCM para o item incluso ou seja o com o código -10, podendo ser o mesmo NCM que do item comprado. Então é necessário fazer uma devolução normal desta compra e uma nota manual avulsa como complemento, sendo necessário informar o NCM para o item incluso ou seja o com o código -10, podendo ser o mesmo NCM que do item comprado. Então é necessário fazer uma devolução normal desta compra e uma nota manual avulsa como complemento, sendo necessário informar o NCM para o item incluso ou seja o com o código -10, podendo ser o mesmo NCM que do item comprado. ",
+          "id": "7704ccfb-b98c-48cb-88c0-518ca62a6fed"
+        }
+      ],
+      "id": 3
+    },
+    {
+      "name": "Projeto Teste1",
+      "budget": "1550000",
+      "category": {
+        "id": "4",
+        "name": "Planejamento"
+      },
+      "cost": null,
+      "services": [
+        {
+          "name": "Teste",
+          "cost": "100",
+          "description": "teste",
+          "id": "f8d54797-1d2d-4f58-b3e8-52c17edab816"
+        }
+      ],
+      "id": 4
+    },
+    {
+      "name": "Teste",
+      "budget": "15000",
+      "category": {
+        "id": "3",
+        "name": "Design"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 5
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Infra"
+    },
+    {
+      "id": 2,
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": 3,
+      "name": "Design"
+    },
+    {
+      "id": 4,
+      "name": "Planejamento"
+    }
+  ]
+}
