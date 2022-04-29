@@ -18,7 +18,7 @@
         "id": "3",
         "name": "Design"
       },
-      "cost": 600,
+      "cost": null,
       "services": [
         {
           "name": "Teste de serviço",
@@ -37,12 +37,6 @@
           "cost": "100",
           "description": "teste",
           "id": "4099c7b1-ca11-41fe-8b8e-9fd323baa8d3"
-        },
-        {
-          "name": "Projeto de Design1",
-          "cost": "300",
-          "description": "Então é necessário fazer uma devolução normal desta compra e uma nota manual avulsa como complemento, sendo necessário informar o NCM para o item incluso ou seja o com o código -10, podendo ser o mesmo NCM que do item comprado. Então é necessário fazer uma devolução normal desta compra e uma nota manual avulsa como complemento, sendo necessário informar o NCM para o item incluso ou seja o com o código -10, podendo ser o mesmo NCM que do item comprado. Então é necessário fazer uma devolução normal desta compra e uma nota manual avulsa como complemento, sendo necessário informar o NCM para o item incluso ou seja o com o código -10, podendo ser o mesmo NCM que do item comprado. ",
-          "id": "7704ccfb-b98c-48cb-88c0-518ca62a6fed"
         }
       ],
       "id": 3
