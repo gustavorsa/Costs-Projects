@@ -2,6 +2,7 @@
   "name": "costs",
   "version": "0.1.0",
   "private": true,
+  "homepage": "http://{Gustavo}.github.io/costs",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.3",
     "@testing-library/react": "^12.1.4",
@@ -20,7 +21,9 @@
     "backend": "json-server --watch db.json --port 5000",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
