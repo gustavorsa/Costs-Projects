@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/costs/static/css/main.8c722a0d.css",
-    "main.js": "/costs/static/js/main.598fd382.js",
-    "static/media/savings.svg": "/costs/static/media/savings.25a5174d3c0ce57522d68f3ba58b7407.svg",
-    "index.html": "/costs/index.html",
-    "static/media/loading.svg": "/costs/static/media/loading.5ff8599871e56a8a672f0861a01ef3bc.svg",
-    "main.8c722a0d.css.map": "/costs/static/css/main.8c722a0d.css.map",
-    "main.598fd382.js.map": "/costs/static/js/main.598fd382.js.map"
+    "main.css": "/Costs-Projects/static/css/main.8c722a0d.css",
+    "main.js": "/Costs-Projects/static/js/main.551fd316.js",
+    "static/media/savings.svg": "/Costs-Projects/static/media/savings.25a5174d3c0ce57522d68f3ba58b7407.svg",
+    "index.html": "/Costs-Projects/index.html",
+    "static/media/loading.svg": "/Costs-Projects/static/media/loading.5ff8599871e56a8a672f0861a01ef3bc.svg",
+    "main.8c722a0d.css.map": "/Costs-Projects/static/css/main.8c722a0d.css.map",
+    "main.551fd316.js.map": "/Costs-Projects/static/js/main.551fd316.js.map"
   },
   "entrypoints": [
     "static/css/main.8c722a0d.css",
-    "static/js/main.598fd382.js"
+    "static/js/main.551fd316.js"
   ]
 }
